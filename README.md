@@ -1,15 +1,23 @@
-### 晚安 馬卡吧卡
-<!--
-**Chonghao0109/Chonghao0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧑🏻‍💻About Me 
+#### A Digital IC Design Engineer From Taiwan 
+---------------------------------------------------------
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chonghao0109&langs_count=8" />
 
-Here are some ideas to get you started:
+### Skill
+### 1. Digital IC Design (front-End design)
+### 2. Processor Design (MIPS ISA)
+### 3. Image Process Algorithmin
+### 4. Embedded system development 
+### 5. FPGA development
+### 7. Python
+### 8. C & C++
+---------------------------------------------------------
+## experience
+### 1.  MIPS ISA Processor on FPGA Design
+### 2.  Low Area Convolution Chip front-End design
+### 3.  Sobel Chip front-End design
+### 4.  THSR Verification code cracking
+### 5.  Microcontroller STM32 system development tutor (2023 Mar -> Oct)
+---------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chonghao0109&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) 
