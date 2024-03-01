@@ -3,8 +3,6 @@
 # 🧑🏻‍💻About Me 
 #### A Digital IC Design Engineer From Taiwan 
 ---------------------------------------------------------
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chonghao0109&langs_count=8" />
-
 ### Skill
 ### 1. Digital IC Design (front-End design)
 ### 2. Processor Design (MIPS ISA)
@@ -21,5 +19,5 @@
 ### 4.  THSR Verification code cracking
 ### 5.  Microcontroller STM32 system development tutor (2023 Mar -> Oct)
 ---------------------------------------------------------
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chonghao0109&langs_count=8" />
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chonghao0109&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) 
