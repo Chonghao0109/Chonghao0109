@@ -11,7 +11,7 @@
 ### 7. Python
 ### 8. C & C++
 ---------------------------------------------------------
-## experience
+## Experience
 ### 1.  MIPS ISA Processor on FPGA Design
 ### 2.  Low Area Convolution Chip front-End design
 ### 3.  Sobel Chip front-End design
