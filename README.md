@@ -77,7 +77,6 @@ IC 設計領域，修習相關課程並參與跨校學習（國立中山大學�
 - Programming for Everybody - University of Michigan
 - Python Data Structures - University of Michigan
 - 機器學習基石上 - National Taiwan University
-</aside>
 ---
 
 ## 📜 幹部經歷
